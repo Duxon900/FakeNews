@@ -1,6 +1,6 @@
 # FakeNews
 Proiektu hau bi ataletan banatzen da: Naive Bayes-ekoa eta Sare neuronalekoa
 
-##Naive Bayes
+## Naive Bayes
 
-##Sare Neuronala
+## Sare Neuronala
